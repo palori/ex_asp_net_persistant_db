@@ -14,12 +14,19 @@ I s'han modificat per a connectar el projecte amb una BBDD persistent de MySQL e
 1. SQL Server
 2. [My SQL Server](https://github.com/palori/ex_asp_net_persistant_db/MySQL_guides.md)
 
-
-
-[Oracle or Pomelo library](https://dev.to/ruben_j/using-mysql-with-entity-framework-core-and-asp-net-core-1010) to UseMySql()
+[ASP.NET Web API guide](https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code) used for the previous exercise that includes a useful set of NuGet packages that need to be installed for the project to run.
 
 
 ## Other things to consider
+
+### General info about ASP.NET
+[ASP.NET Core tutorials](https://dotnettutorials.net/course/asp-net-core-tutorials/)
+
+### Entity Framework
+Great [explanation](https://dotnettutorials.net/lesson/entity-framework-core/) on what it is and how it works.
+
+### Migrations
+If you want to know more about [migrations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli).
 
 ### CORS policy
 Per a poder executar en el mateix PC s'ha d'havilitar la política del CORS.

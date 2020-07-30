@@ -18,3 +18,5 @@ In case of remote, we need to update the connection string with an appropriate s
 ---
 
 `WIP...`
+
+[Oracle or Pomelo library](https://dev.to/ruben_j/using-mysql-with-entity-framework-core-and-asp-net-core-1010) to UseMySQL()
