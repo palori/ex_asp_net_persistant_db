@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using MySql.Data.EntityFrameworkCore.Extensions;    // UseMySql???
+//using MySql.Data.EntityFrameworkCore.Extensions;    // UseMySql???
 
 using Employees_MySQL.Models;
 using Employees_MySQL.Data;
@@ -57,7 +57,8 @@ namespace Employees_MySQL
                 endpoints.MapControllers();
             });
 
-            DummyData.Initialize(app);       // no se on hauria d'anar
+            //DummyData.Initialize(app);       // no se on hauria d'anar
+                
         }
     }
 }

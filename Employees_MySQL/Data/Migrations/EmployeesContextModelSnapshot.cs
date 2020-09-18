@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MySql.Data.EntityFrameworkCore.Extensions;
+//using MySql.Data.EntityFrameworkCore.Extensions;
 
 using Employees_MySQL.Models;
 using Employees_MySQL.Data;
